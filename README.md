@@ -1,7 +1,7 @@
 ![PHP](https://i.imgur.com/ozOpz8a.png?1)
 
 ## :superhero: AnRi Bank
-Este repositório contém o pequeno projeto de simuação de um banco que foi propostos no curso **Avançando com PHP: Arrays, Strings, Função e Web** ministrado por [Vinicius Dias](https://github.com/cviniciussdias) na plataforma de cursos [Alura](https://www.alura.com.br/).
+Este repositório contém o pequeno projeto de simulação de um banco que foi proposto no curso **Avançando com PHP: Arrays, Strings, Função e Web** ministrado por [Vinicius Dias](https://github.com/cviniciussdias) na plataforma de cursos [Alura](https://www.alura.com.br/).
 
 ##  :clipboard: Sobre o projeto
 Foram feitas algumas alterações e implementadas outras funcionalidades.
